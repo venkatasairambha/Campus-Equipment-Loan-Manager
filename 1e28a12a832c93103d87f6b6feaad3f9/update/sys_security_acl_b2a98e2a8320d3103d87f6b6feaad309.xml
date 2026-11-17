@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Allow write for records in x_2316590_campus_0_loan_request, for users with role x_2316590_campus_0.loan_admin.</description>
+        <local_or_existing>Existing</local_or_existing>
+        <name>x_2316590_campus_0_loan_request</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-17 10:21:08</sys_created_on>
+        <sys_id>b2a98e2a8320d3103d87f6b6feaad309</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_2316590_campus_0_loan_request</sys_name>
+        <sys_package display_value="Campus Equipment Loan Manager" source="x_2316590_campus_0">1e28a12a832c93103d87f6b6feaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Equipment Loan Manager">1e28a12a832c93103d87f6b6feaad3f9</sys_scope>
+        <sys_update_name>sys_security_acl_b2a98e2a8320d3103d87f6b6feaad309</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-17 10:21:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
