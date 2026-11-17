@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="86a90e2a8320d3103d87f6b6feaad370" sys_domain="global" table="x_2316590_campus_0_loan_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>bfcee6ea8324d3103d87f6b6feaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>equipment</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>7bcee6ea8324d3103d87f6b6feaad3db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>37cee6ea8324d3103d87f6b6feaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>ffcee6ea8324d3103d87f6b6feaad3dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>purpose</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>bbcee6ea8324d3103d87f6b6feaad3dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager_approval</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>77cee6ea8324d3103d87f6b6feaad3de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>33cee6ea8324d3103d87f6b6feaad3df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requester</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>fbcee6ea8324d3103d87f6b6feaad3df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>b7cee6ea8324d3103d87f6b6feaad3e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>73cee6ea8324d3103d87f6b6feaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 13:03:24</sys_created_on>
+            <sys_id>3fcee6ea8324d3103d87f6b6feaad3e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_2316590_campus_0_loan_request" sys_domain="global" view="Default view">86a90e2a8320d3103d87f6b6feaad370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 13:03:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2316590_campus_0_loan_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-11-17 10:21:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86a90e2a8320d3103d87f6b6feaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2316590_campus_0_loan_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Campus Equipment Loan Manager" source="x_2316590_campus_0">1e28a12a832c93103d87f6b6feaad3f9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Campus Equipment Loan Manager">1e28a12a832c93103d87f6b6feaad3f9</sys_scope>
+            <sys_update_name>sys_ui_section_86a90e2a8320d3103d87f6b6feaad370</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-11-17 10:21:05</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

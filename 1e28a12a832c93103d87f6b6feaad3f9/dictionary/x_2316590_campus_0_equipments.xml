@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="6b58b5e683ac93103d87f6b6feaad35d" label="Equipments" max_length="40" name="x_2316590_campus_0_equipments" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Asset Tag Number" max_length="40" name="number" type="string"/>
+        <element choice="1" dependent="state" dependent_on_field="state" label="Stock Availability" max_length="255" name="stock_availability" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="in_stock" inactive_on_update="false" label="Defective" sequence="2" value="defective"/>
+                <element dependent_value="retired" inactive_on_update="false" label="Sold" sequence="6" value="sold"/>
+                <element dependent_value="in_stock" inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element dependent_value="in_use" inactive_on_update="false" label="Pending Fullfillment" sequence="3" value="pending_fullfillment"/>
+                <element dependent_value="in_stock" inactive_on_update="false" label="Reserved" sequence="1" value="reserved"/>
+                <element dependent_value="retired" inactive_on_update="false" label="Disposed" sequence="5" value="disposed"/>
+                <element dependent_value="missing" inactive_on_update="false" label="Lost" sequence="7" value="lost"/>
+                <element dependent_value="missing" inactive_on_update="false" label="Stolen" sequence="8" value="stolen"/>
+                <element dependent_value="in_use" inactive_on_update="false" label="Pending Retirement" sequence="4" value="pending_retirement"/>
+            </choice>
+        </element>
+        <element choice="1" label="Condition" max_length="255" name="condition" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Damaged" sequence="2" value="damaged"/>
+                <element inactive_on_update="false" label="Lost" sequence="3" value="lost"/>
+                <element inactive_on_update="false" label="Minor Damage" sequence="1" value="minor_damage"/>
+                <element inactive_on_update="false" label="Good" sequence="0" value="good"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="32" name="name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element choice="1" label="Equipment Status" max_length="255" name="equipment_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Under Maintenance" sequence="3" value="under_maintenance"/>
+                <element inactive_on_update="false" label="Retired" sequence="5" value="retired"/>
+                <element inactive_on_update="false" label="Lost" sequence="4" value="lost"/>
+                <element inactive_on_update="false" label="Checked Out" sequence="2" value="checked_out"/>
+                <element inactive_on_update="false" label="Available" sequence="0" value="Available"/>
+                <element inactive_on_update="false" label="Reserved" sequence="1" value="reserved"/>
+            </choice>
+        </element>
+        <element choice="1" label="State" max_length="255" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In Use" sequence="2" value="in_use"/>
+                <element inactive_on_update="false" label="Missing" sequence="4" value="missing"/>
+                <element inactive_on_update="false" label="Retired" sequence="3" value="retired"/>
+                <element inactive_on_update="false" label="In Stock" sequence="1" value="in_stock"/>
+                <element inactive_on_update="false" label="On Order" sequence="0" value="on_order"/>
+            </choice>
+        </element>
+        <element choice="1" label="Category" max_length="255" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
+                <element inactive_on_update="false" label="Projector" sequence="1" value="projector"/>
+                <element inactive_on_update="false" label="Camera" sequence="2" value="camera"/>
+            </choice>
+        </element>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="name"/>
+        </index>
+    </element>
+</database>
